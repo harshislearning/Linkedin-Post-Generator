@@ -7,3 +7,4 @@ An AI tool that helps you create LinkedIn posts in human writing style. You can 
 The format of file:
 
 <img width="450" height="504" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/8e1bc531-b714-46a0-aed9-fd185f190fbb" />
+
