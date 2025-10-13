@@ -1,4 +1,4 @@
-Linkedin-Post-Generator
+#  Linkedin-Post-Generator
 
 An AI tool that helps you create LinkedIn posts in human writing style. You can choose the topic, language, and post length. It is built using Python and uses AI to make posts that fit your needs. This is useful for students, professionals and influencers who want to save time and improve their LinkedIn posts.
 
